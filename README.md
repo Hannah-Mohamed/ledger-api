@@ -1,15 +1,15 @@
 # Ledger
 
-A client and project tracker I built to learn how real backend systems actually work — not just CRUD, but auth, permissions, and multiple people sharing the same data properly.
+A client and project tracker I built to learn how real backend systems actually work , not just CRUD, but auth, permissions, and multiple people sharing the same data properly.
 
 **Try it live:** https://ledgerz.onrender.com
 **API docs:** https://ledger-api-yae8.onrender.com/docs
 
-(Free hosting means the backend falls asleep after inactivity — if the first request hangs for 30-60 seconds, that's why. Just wait, it'll wake up.)
+(Free hosting means the backend falls asleep after inactivity ; if the first request hangs for 30-60 seconds, that's why. Just wait, it'll wake up.)
 
 ## What it is
 
-Think of a small consultancy tracking their work: a handful of clients, each with a few projects on the go, each project with its own list of tasks. That's the shape of this app. A client can be shared between teammates — invite someone by username and they get access to everything under that client, not just a read-only view.
+Think of a small consultancy tracking their work: a handful of clients, each with a few projects on the go, each project with its own list of tasks. That's the shape of this app. A client can be shared between teammates. invite someone by username and they get access to everything under that client, not just a read-only view.
 
 I built it as a BBusSc Information Systems student at UCT, mostly to have something on my GitHub that actually does something real, rather than another to-do list tutorial.
 
